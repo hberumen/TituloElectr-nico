@@ -1,0 +1,14 @@
+/AutenticacionType.class
+/CancelaTituloElectronicoRequest.class
+/CancelaTituloElectronicoResponse.class
+/CargaTituloElectronicoRequest.class
+/CargaTituloElectronicoResponse.class
+/ConsultaProcesoTituloElectronicoRequest.class
+/ConsultaProcesoTituloElectronicoResponse.class
+/DescargaTituloElectronicoRequest.class
+/DescargaTituloElectronicoResponse.class
+/TitulosPortType.class
+/TitulosPortTypeProxy.class
+/TitulosPortTypeService.class
+/TitulosPortTypeServiceLocator.class
+/TitulosPortTypeSoap11Stub.class
