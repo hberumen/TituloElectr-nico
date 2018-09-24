@@ -34,17 +34,17 @@ public class TituloUtils {
 	public static final String PATH_SAT = "/srv/CARPETA_ARCHIVOS";
 	private static String LLAVE_RECTOR  = "llave.key";
 	private static String CERTIFICADO_RECTOR = "certificado.cer";
-	private static String PASS_LLAVE_RECTOR	= "password";
-	public static String TIPO_RECTOR	    = "RECTOR";
-
+	private static String PASS_LLAVE_RECTOR	= "password";	
 
 	private static String LLAVE_SECRETARIO = "llave.key";
 	private static String CERTIFICADO_SECRETARIO = "certificado.cer";
 	private static String PASS_LLAVE_SECRETARIO	= "password";
-	
-	public static String TIPO_SECRETARIO	 = "SECRETARIO";	
+			
 	public static String USUARIO_SERVER = "usuario";
 	public static String PASSWORD_SERVER = "password";
+	
+	public static String TIPO_RECTOR	    = "RECTOR";
+	public static String TIPO_SECRETARIO	 = "SECRETARIO";
 
 	private String sello;
 	private String certificado;    
