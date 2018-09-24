@@ -1,6 +1,9 @@
 # TituloElectronico
 
+Generación del xml de Título Electrónico. 
+
 Configurar
+	
 	hberumen.com.xml.test.TituloUtils
 
 	public static final String PATH_SAT = "/srv/CARPETA_ARCHIVOS";
