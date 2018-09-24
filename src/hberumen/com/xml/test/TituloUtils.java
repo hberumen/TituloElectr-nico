@@ -31,7 +31,7 @@ public class TituloUtils {
 	
 	private static final String SCHEMA_TITULO = "https://www.siged.sep.gob.mx/titulos/ schema.xsd";
 	
-	public static final String PATH_SAT = "/srv/CARPETA_ARCHIVOS";
+	public static final String PATH_SAT = "/CARPETA_ARCHIVOS/";
 	private static String LLAVE_RECTOR  = "llave.key";
 	private static String CERTIFICADO_RECTOR = "certificado.cer";
 	private static String PASS_LLAVE_RECTOR	= "password";	
